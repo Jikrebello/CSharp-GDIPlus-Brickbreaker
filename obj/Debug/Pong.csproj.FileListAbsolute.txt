@@ -1,0 +1,23 @@
+E:\Visual Studio Projects\General C#\Pong\bin\Debug\Pong.exe.config
+E:\Visual Studio Projects\General C#\Pong\bin\Debug\Pong.exe
+E:\Visual Studio Projects\General C#\Pong\bin\Debug\Pong.pdb
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.Form1.resources
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.Properties.Resources.resources
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.exe
+E:\Visual Studio Projects\General C#\Pong\obj\Debug\Pong.pdb
+E:\C# Projects\General C#\Pong\bin\Debug\Pong.exe.config
+E:\C# Projects\General C#\Pong\bin\Debug\Pong.exe
+E:\C# Projects\General C#\Pong\bin\Debug\Pong.pdb
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.Form1.resources
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.Properties.Resources.resources
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.exe
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.pdb
+E:\C# Projects\General C#\Pong\bin\Debug\System.Numerics.Vectors.dll
+E:\C# Projects\General C#\Pong\bin\Debug\System.Numerics.Vectors.xml
+E:\C# Projects\General C#\Pong\obj\Debug\Pong.csproj.CopyComplete
