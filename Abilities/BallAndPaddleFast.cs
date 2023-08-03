@@ -7,7 +7,7 @@ namespace Pong
 {
     class BallAndPaddleFast : PowerUp
     {
-        readonly SoundPlayer powerUp = new SoundPlayer(@"E:\C# Projects\General C#\Pong\Media\Powerup.wav");
+        readonly SoundPlayer powerUp = new SoundPlayer(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Powerup.wav");
         public BallAndPaddleFast() : base()
         {
             brush = new SolidBrush(Color.DarkGoldenrod);

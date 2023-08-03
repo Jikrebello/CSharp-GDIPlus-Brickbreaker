@@ -6,7 +6,7 @@ namespace Pong
 {
     class PaddleWider : PowerUp
     {
-        readonly SoundPlayer powerUp = new SoundPlayer(@"E:\C# Projects\General C#\Pong\Media\Growing.wav");
+        readonly SoundPlayer powerUp = new SoundPlayer(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Growing.wav");
         public PaddleWider() : base()
         {
             brush = new SolidBrush(Color.DarkViolet);

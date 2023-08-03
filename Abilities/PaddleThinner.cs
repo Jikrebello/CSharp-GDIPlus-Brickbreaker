@@ -6,7 +6,7 @@ namespace Pong
 {
     class PaddleThinner : PowerUp
     {
-        readonly SoundPlayer powerUp = new SoundPlayer(@"E:\C# Projects\General C#\Pong\Media\Shrinking.wav");
+        readonly SoundPlayer powerUp = new SoundPlayer(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Shrinking.wav");
         public PaddleThinner() : base()
         {
             brush = new SolidBrush(Color.DarkViolet);

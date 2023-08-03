@@ -41,7 +41,7 @@ namespace Pong
 
         public void Start()
         {
-            musicPlayer.Open(new Uri(@"E:\C# Projects\General C#\Pong\Media\Chiptronical.wav"));
+            musicPlayer.Open(new Uri(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Chiptronical.wav"));
             musicPlayer.Play();
             musicPlayer.Volume = 0.1f;
 
@@ -57,7 +57,7 @@ namespace Pong
 
             int numberOfPowerUps = 10; // Make it +1 more than it needs to be for the outer random outer exclusive
 
-            // Generate a bunch of blocks and hide powerUps behind them (default 24) and put them into a list. 
+            // Generate a bunch of blocks and hide powerUps behind them (default 24) and put them into a list.
             for (int i = 0; i < numberOfBlocks; i++)
             {
 
@@ -139,7 +139,7 @@ namespace Pong
                     Blocks.Add(Block);
                 }
 
-                // polymorphism is cool 
+                // polymorphism is cool
             }
 
             // Set up the area in which the blocks will spawn.

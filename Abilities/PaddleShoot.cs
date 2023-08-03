@@ -6,7 +6,7 @@ namespace Pong.Abilities
 {
     class PaddleShoot : PowerUp
     {
-        readonly SoundPlayer powerUp = new SoundPlayer(@"E:\C# Projects\General C#\Pong\Media\Powerup.wav");
+        readonly SoundPlayer powerUp = new SoundPlayer(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Powerup.wav");
 
         public PaddleShoot() : base()
         {

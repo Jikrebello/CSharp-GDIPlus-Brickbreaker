@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Media;
 using System.Numerics;
 
@@ -28,7 +29,8 @@ namespace Pong
 
         // --- PRIVATE FIELDS ---
         const double maxAngle = 50;
-        readonly SoundPlayer HitPlayer = new SoundPlayer(@"E:\C# Projects\General C#\Pong\Media\Hit.wav");
+
+        readonly SoundPlayer HitPlayer = new SoundPlayer(@"D:\CSharp Projects\BrickBreaker\CSharp-GDIPlus-Brickbreaker\Media\Hit.wav");
         readonly Random rand = new Random();
         Rectangle area;
         double ballIntersectX;
